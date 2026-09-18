@@ -1,0 +1,77 @@
+﻿unidade,rodovia,municipio,tipo,km_inicial,km_final,extensao,descricao
+Colinas,SP075,Itu,Rodovia,15.0,33.15,18.15,
+Colinas,SP075,Salto,Rodovia,33.151,46.4,13.249,
+Colinas,SP075,Indaiatuba,Rodovia,46.401,61.6,15.199,
+Colinas,SP075,Campinas,Rodovia,61.601,77.6,15.999,
+Colinas,SP127,Rio Claro,Rodovia,0.0,13.07,13.07,
+Colinas,SP127,Piracicaba,Rodovia,13.071,32.026,18.955,
+Colinas,SP127,Piracicaba,Rodovia,32.027,39.9,7.873,
+Colinas,SP127,Piracicaba,Rodovia,39.901,47.8,7.899,
+Colinas,SP127,Saltinho,Rodovia,47.801,55.7,7.899,
+Colinas,SP127,Rio Das Pedras,Rodovia,55.701,59.25,3.549,
+Colinas,SP127,Tietê,Rodovia,59.251,83.0,23.749,
+Colinas,SP127,Tietê,Rodovia,83.001,86.8,3.799,
+Colinas,SP127,Cerquilho,Rodovia,86.801,98.9,12.099,
+Colinas,SP127,Tatuí,Rodovia,98.901,105.9,6.999,
+Colinas,SP280,Itu,Rodovia,79.381,82.0,2.619,
+Colinas,SP280,Sorocaba,Rodovia,82.001,84.0,1.999,
+Colinas,SP280,Itu,Rodovia,84.001,94.0,9.999,
+Colinas,SP280,Porto Feliz,Rodovia,94.001,107.0,12.999,
+Colinas,SP280,Boituva,Rodovia,107.001,125.2,18.199,
+Colinas,SP280,Tatuí,Rodovia,125.201,129.6,4.399,
+Colinas,SP300,Jundiaí,Rodovia,64.6,71.2,6.6,
+Colinas,SP300,Itupeva,Rodovia,71.201,77.9,6.699,
+Colinas,SP300,Cabreúva,Rodovia,77.901,93.3,15.399,
+Colinas,SP300,Itu,Rodovia,93.301,103.0,9.699,
+Colinas,SP300,Itu,Rodovia,103.001,108.9,5.899,
+Colinas,SP300,Itu,Rodovia,108.901,120.85,11.949,
+Colinas,SP300,Porto Feliz,Rodovia,120.851,137.0,16.149,
+Colinas,SP300,Porto Feliz,Rodovia,137.001,145.75,8.749,
+Colinas,SP300,Tietê,Rodovia,145.751,158.65,12.899,
+Tietê,SP300,Tietê,Rodovia,158.65,161.0,2.35,
+Tietê,SP300,Jumirim,Rodovia,161.0,171.5,10.5,
+Tietê,SP300,Laranjal Paulista,Rodovia,171.5,185.1,13.6,
+Tietê,SP300,Pereiras,Rodovia,185.1,190.7,5.6,
+Tietê,SP300,Conchas,Rodovia,190.7,207.95,17.25,
+Tietê,SP300,Bofete,Rodovia,207.95,215.5,7.55,
+Tietê,SP300,Anhembi,Rodovia,215.5,229.25,13.75,
+Tietê,SP300,Botucatu,Rodovia,229.25,262.7,33.45,
+Tietê,SP300,São Manoel,Rodovia,262.7,281.92,19.22,
+Tietê,SP300,Areiópolis,Rodovia,281.92,285.53,3.61,
+Tietê,SP300,Lençõis Paulista,Rodovia,285.53,314.5,28.97,
+Tietê,SP300,Agudos,Rodovia,314.5,332.925,18.425,
+Tietê,SP300,Bauru,Rodovia,332.925,336.5,3.575,
+Tietê,SP209,Itatinga,Rodovia,0.0,1.78,1.78,
+Tietê,SP209,Botucatu,Rodovia,1.78,21.09,19.31,
+Tietê,SP101,Campinas,Rodovia,0.0,5.047,5.047,
+Tietê,SP101,Hortolândia,Rodovia,5.047,11.8,6.753,
+Tietê,SP101,Campinas,Rodovia,11.8,14.64,2.84,
+Tietê,SP101,Monte Mor,Rodovia,14.64,33.04,18.4,
+Tietê,SP101,Capivari,Rodovia,33.04,49.27,16.23,
+Tietê,SP101,Rafard,Rodovia,49.27,71.25,21.98,
+Tietê,SP308,Salto,Rodovia,102.2,108.66,6.46,
+Tietê,SP308,Elias Fausto,Rodovia,108.66,124.88,16.22,
+Tietê,SP308,Capivari,Rodovia,124.48,139.8,15.32,
+Tietê,SP308,Rio Das Pedras,Rodovia,141.41,155.13,13.72,
+Tietê,SP308,Piracicaba,Rodovia,155.13,162.0,6.87,
+Tietê,SP308,Mombuca,Rodovia,139.8,141.41,1.61,
+Tietê,SP113,Tietê,Rodovia,0.0,11.18,11.18,
+Tietê,SP113,Rafard,Rodovia,11.18,14.4,3.22,
+Tietê,SP101,Monte Mor,Acesso,22.34,22.84,0.5,Monte Mor - 022 / 101
+Tietê,SP101,Monte Mor,Acesso,26.0,27.23,1.23,Monte Mor - 028 / 101
+Tietê,SP101,Elias Fausto,Acesso,32.15,38.41,6.26,Elias Fausto - 032 / 101
+Tietê,SP101,Capivari,Acesso,43.18,44.38,1.2,Capivari - 043 / 101
+Tietê,SP101,Rafard,Acesso,51.8,53.7,1.9,Rafard - 051 / 101
+Tietê,SP209,Pardinho,Acesso,7.17,24.98,17.81,Pardinho - 007 / 209
+Tietê,SP300,Tietê,Acesso,159.2,159.3,0.1,Tietê - 159 / 300
+Tietê,SP300,Laranjal Paulista,Acesso,172.0,172.6,0.6,Laranjal Paulista - 172 / 300
+Tietê,SP300,Laranjal Paulista,Acesso,176.0,176.04,0.04,Laranjal Paulista - 176 / 300
+Tietê,SP300,Conchas,Acesso,193.0,194.28,1.28,Conchas - 193 / 300
+Tietê,SP300,Conchas,Acesso,196.15,197.16,1.01,Conchas - 196 /300
+Tietê,SP300,Botucatu,Acesso,231.0,232.5,1.5,Botucatu - 231 / 300
+Tietê,SP300,Variante (Gastão Dal Farra),Acesso,241.38,251.12,9.74,Variante (Gastão Dal Farra) - 241 / 300
+Tietê,SP300,Botucatu,Acesso,251.0,255.0,4.0,Botucatu - 251 / 300
+Tietê,SP300,São Manoel,Acesso,270.9,271.48,0.58,São Manoel - 270 / 300
+Tietê,SP300,Areiópolis,Acesso,283.0,284.1,1.1,Areiópolis - 283 / 300
+Tietê,SP308,Capivari,Acesso,139.2,148.2,9.0,Capivari - 139 / 308
+Tietê,SP308,Rio Das Pedras,Acesso,155.0,159.01,4.01,Rio Das Pedras - 155 / 308

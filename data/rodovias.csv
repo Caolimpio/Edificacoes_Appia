@@ -1,0 +1,65 @@
+﻿unidade,rodovia,nome_rodovia,tipo,trecho,sentido,km_inicial,km_final,codigo,observacao,extensao
+Colinas,SP075,Dep. Archimedes Lammoglia / Prefeito Hélio Steffen / Eng.º Ermênio de Oliveira Penteado / Santos Dumont,Principal,Itu - Campinas,,15.0,77.6,,,62.6
+Colinas,SP127,Fausto Santomauro / Cornélio Pires / Antônio Romano Schincariol,Principal,Rio Claro - Tatuí,,0.0,32.026,,Trecho 1,32.026
+Colinas,SP127,Cornélio Pires,Principal,Rio Claro - Tatuí,,39.9,79.4,,Trecho 2,39.5
+Colinas,SP127,Antônio Romano Schincariol,Principal,Rio Claro - Tatuí,,79.4,105.9,,Trecho 3,26.5
+Colinas,SP280,Presidente Castello Branco,Principal,Itu - Tatuí,,79.38,129.6,,,50.22
+Colinas,SP300,Dom Gabriel Paulino Bueno Couto / Marechal Rondon,Principal,Jundiaí - Tietê,,64.6,103.0,,Trecho 1,38.4
+Colinas,SP300,Marechal Rondon,Principal,Jundiaí - Tietê,,108.9,158.65,,Trecho 2,49.75
+Colinas,SPI 102/300,Eng.º Herculano de Godoy Passos,Principal,Itu,,0.0,7.9,,,7.9
+Tietê,SP101,Jornalista Francisco Aguirre Proença/Bento Antonio De Moraes,Principal,Campinas - Capivari,,0.0,71.25,,,71.25
+Tietê,SP113,Doutor  João José Rodrigues,Principal,Tiete - Rafard,,0.0,14.4,,,14.4
+Tietê,SP209,Prof. João Hipolito Martins,Principal,Sp. 280 - Botucatu,,0.0,21.09,,,21.09
+Tietê,SP300,Via Rondon,Principal,Itu - Bauru,,158.65,336.5,,,177.85
+Tietê,SP308,Rodovia Do Açucar Comendador Mário Dedini,Principal,Salto - Piracicaba,,102.2,162.0,,,59.8
+Tietê,SP101,Spa 022/101,Acesso,,,0.0,0.5,SPA 022/101,,0.5
+Tietê,SP101,Prefeito Benedito Santos,Acesso,,,0.0,1.23,SPA 026/101,,1.23
+Tietê,SP101,Antonio Rossi,Acesso,,,0.0,6.26,SPA 032/101,,6.26
+Tietê,SP101,Spa 043/101,Acesso,,,0.0,1.2,SPA 043/101,,1.2
+Tietê,SP101,Prefeito Genaro Vigorito,Acesso,,,0.0,1.9,SPA 051/101,,1.9
+Tietê,SP209,Pedro Bosco,Acesso,,,0.0,17.81,SPA 007/209,,17.81
+Tietê,SP300,Spa 159/300,Acesso,,,0.0,0.1,SPA 159/300,,0.1
+Tietê,SP300,Spa 172/300,Acesso,,,0.0,0.6,SPA 172/300,,0.6
+Tietê,SP300,Spa 176/300,Acesso,,,0.0,0.04,SPA 176/300,,0.04
+Tietê,SP300,Spa 193/300,Acesso,,,0.0,1.28,SPA 193/300,,1.28
+Tietê,SP300,Spa 196/300,Acesso,,,0.0,1.01,SPA 196/300,,1.01
+Tietê,SP300,Spa 231/300,Acesso,,,0.0,1.5,SPA 231/300,,1.5
+Tietê,SP300,Gastão Dal Farra,Acesso,,,0.0,9.74,SPA 241/300,,9.74
+Tietê,SP300,Domingos Sartori,Acesso,,,0.0,4.0,SPA 251/300,,4.0
+Tietê,SP300,Spa 270/300,Acesso,,,0.0,0.58,SPA 270/300,,0.58
+Tietê,SP300,Spa 283/300,Acesso,,,0.0,1.1,SPA 283/300,,1.1
+Tietê,SP308,Antonio Forti (Kanela),Acesso,,,0.0,9.0,SPA 139/308,,9.0
+Tietê,SP308,Spa 155/308,Acesso,,,0.0,4.01,SPA 155/308,,4.01
+Tietê,SP-101,Sp -101/ Hortolândia,Vicinal,Hortolândia,,,,HRT - 050,AVENIDA SANTANA DA CIDADE DE HORTOLANDIA,
+Tietê,SP-101,Monte Mor / Bairro,Vicinal,Monte Mor,,,,MOR - 040,,
+Tietê,SP-101,Monte Mor / Indaiatuba,Vicinal,Monte Mor,,,,MOR - 137,,
+Tietê,SP-101,Sp-101 / Porto Feliz,Vicinal,Rafard,,,,RFR - 154,,
+Tietê,SP-113,Sp-113 / Sete Foções,Vicinal,Tietê,,,,TIT - 366,Acesso ao bairro Sete Fogões,
+Tietê,SP-300,Laranjal Paulista / B. Morro Alto,Vicinal,Laranjal Paulista,,,,LRP - 321,,
+Tietê,SP-300,Sp-300 / B. Santana,Vicinal,Conchas,,,,CHS- 387,,
+Tietê,SP-300,Sp-300 / B. Juquiratiba,Vicinal,Conchas,,,,CHS- 326,,
+Tietê,SP-300,Sp-300 / Pirambóia,Vicinal,Anhembi,,,,AHB - 146,,
+Tietê,SP-300,Sp-300 / Pardinho,Vicinal,Botucatu,,,,BTC - 353,Em frente ao Posto Pontal da Serra,
+Tietê,SP-300,Pardinho / Sp-300,Vicinal,Pardinho,,,,PRD - 010,CONTINUAÇÃO DA VICINAL BTC 353,
+Tietê,SP-300,,Vicinal,Botucatu,,,,BTC - 055,,
+Tietê,SP-300,São Manuel / Bairro Caic,Vicinal,São Manuel,,,,SMN - 040,,
+Tietê,SP-300,,Vicinal,São Manuel,,,,SMN - 373,Acesso pela SP261,
+Tietê,SP-300,Sp-300 / Alfredo Guedes,Vicinal,Lençois Paulista,,,,LEP - 119,Acesso pelo trevo do km 290+800,
+Tietê,SP-300,,Vicinal,Lençois Paulista,,,,LEP - 374,Acesso pelo trevo do km 293+800 - Usina Barra Grande,
+Tietê,SP-300,,Vicinal,Lençois Paulista,,,,LEP - 363,,
+Tietê,SP-300,Sp-300 / Aparecida De São Manuel,Vicinal,Lençois Paulista,,,,LEP - 030,Extensão da vicinal LEP-363,
+Tietê,SP-300,Sp300/Lençois Paulista,Vicinal,Lençois Paulista,,,,LEP - 148,Acesso pelo  trevo km 299+200,
+Tietê,SP-300,Sp-300 / Borebi,Vicinal,Lençois Paulista,,,,LEP - 357,,
+Tietê,SP-300,Sp-300 / Macatuba,Vicinal,Lençois Paulista,,,,LEP - 321,,
+Tietê,SP-300,Sp-300 / Macatuba,Vicinal,Macatuba,,,,MTB - 148,,
+Tietê,SP-300,Macatuba / Sp-300,Vicinal,Macatuba,,,,MTB - 195,,
+Tietê,SP-300,Macatuba / Mtb 148,Vicinal,Macatuba,,,,MTB - 070,,
+Tietê,SP-300,Borebi / Sp-300,Vicinal,Borebi,,,,BRE - 232,,
+Tietê,SP-300,Borebi / Bre - 232,Vicinal,Borebi,,,,BRE - 005,,
+Tietê,SP-308,,Vicinal,Piracicaba,,,,PIR - 030,,
+Tietê,SP-308,Sp-308 / Rio Das Pedras,Vicinal,Rio Das Pedras,,,,RPD - 020,,
+Tietê,SP-308,,Vicinal,Rio Das Pedras,,,,RPD - 015,,
+Tietê,SP-308,Sp-308 / Capivari,Vicinal,Capivari,,,,CPR - 010,,
+Tietê,SP-209,Sp-209 / Sp-300,Vicinal,Botucatu,,,,BTC - 260,,
+Tietê,SP-209,Sp-209 / Castello,Vicinal,Botucatu,,,,BTC - 040,,
+Tietê,SP-209,Castello / Btc - 040,Vicinal,Itatinga,,,,ITN - 313,,
